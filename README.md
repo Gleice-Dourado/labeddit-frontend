@@ -1,4 +1,4 @@
-# Labeddit - Frontend
+# Labeddit - Frontend 
 
 - O Labeddit Full Stack representa o desafio derradeiro do bootcamp Web Full Stack da Labenu, abrangendo tanto o desenvolvimento de backend quanto frontend. Este projeto coloca ênfase na criação de um aplicativo com design mobile-first e destaca a implementação de uma API completa, incluindo funcionalidades cruciais, como autenticação de usuários e gerenciamento de banco de dados.
 
